@@ -1,5 +1,0 @@
-Hola
-Mi nombre es José Francisco Pagola Trigueros
-Estoy creando mi segundo archivo con Git
-:D
-Prueba
